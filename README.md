@@ -1,3 +1,3 @@
-# Hi, name's Bruno
+# Oi, meu nome é Bruno
 
-Currently I'm studying Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia Baiano
+Atualmente estou cursando Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia Baiano
